@@ -79,7 +79,7 @@ data/raw/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/netflix-recsys.git
+git clone https://github.com/15BumbleBee/netflix-recsys.git
 cd netflix-recsys
 ```
 
