@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+scikit-learn
+scikit-surprise
+implicit
+matplotlib
+seaborn
+tqdm
